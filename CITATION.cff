@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: Universal Adapters for quantum LDPC surgery
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+authors:
+  - given-names: "Esha"
+    family-names: "Swaroop"
+    orcid: 'https://orcid.org/0009-0001-9126-0582'
+    affiliation: "Perimeter Institute"
+identifiers:
+  - type: doi
+    value: 10.48550/arxiv.2410.03628
+    description: arxiv
+repository-code: "https://github.com/eswaroop/adapters_ldpc_surgery/"
+description: "Code to construct auxiliary graphs for logical
+  measurements in quantum LDPC codes using code deformation."
+keywords:
+  - quantum error correction
+  - logic gates
+  - fault-tolerance
+  - LDPC codes
+  - quantum computing
