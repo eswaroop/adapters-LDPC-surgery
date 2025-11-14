@@ -3,6 +3,8 @@ Code to construct auxiliary graphs for logical measurements in quantum LDPC code
 
 Python package contains code to construct auxiliary graphs for individual logical measurements as well as provides the SkipTree algorithm [1] to implement sparse basis change from any graph to a path graph, which represents the canonical repetition code.
 
+### Coming soon
+Graph constructions and examples
 
 ## References
 
